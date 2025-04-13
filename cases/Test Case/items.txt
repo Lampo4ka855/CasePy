@@ -1,0 +1,2 @@
+ak47;assimov;100;rare
+butterfly Knife;scorched;500;legendary
